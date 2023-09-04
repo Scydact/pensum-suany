@@ -21,7 +21,6 @@ import ServiceWorkerUpdateBanner from 'pages/ServiceWorkerUpdateBanner';
 import MatOrgChart from 'pages/MatOrgChart/MatOrgChart';
 import PensumDevelop from 'pages/PensumDevelop';
 
-
 function App() {
 
   return (
@@ -31,7 +30,6 @@ function App() {
           <Route element={<Layout />}>
 
             <Route path="/" element={<><PensumExtractor /><Outlet /></>}>
-              
               <Route path="mat" element={<MatInfo />}>
                 <Route index element={<MatInfoIndex />} />
                 <Route path=":code" element={<MatInfoDetails />} />
@@ -40,7 +38,6 @@ function App() {
               <Route path="calcular-indice" element={<CalcIndice />} />
 
               <Route path="diagrama" element={<MatOrgChart />}/>
-
             </Route>
 
             <Route path="dev" element={<PensumDevelop />} />

@@ -1,10 +1,8 @@
 import { useContext } from "react";
-
-
-import ActivePensumContext from "contexts/active-pensum";
 import PensumMeta from "./PensumMeta";
 import PensumDisplayCards from "./PensumDisplayCards";
 import DeveloperModeContext, { DeveloperModeProvider } from "contexts/developer-mode";
+import { MatSelectionProvider } from "contexts/mat-selection";
 
 type Props = any;
 
@@ -34,7 +32,9 @@ function PensumDevelop(props: Props) {
 } 
 
 export default function PensumDevelopWithContext() {
-  return <DeveloperModeProvider>
-    <PensumDevelop/>
-  </DeveloperModeProvider>
+  return <MatSelectionProvider empty>
+    <DeveloperModeProvider>
+      <PensumDevelop/>
+    </DeveloperModeProvider>
+  </MatSelectionProvider>
 };

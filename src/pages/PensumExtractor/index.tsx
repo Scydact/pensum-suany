@@ -6,8 +6,6 @@ import PensumFilter from "./Filter/FilterCard";
 import PensumInfo from "./PensumInfo";
 import PensumProgress from "./PensumProgress";
 import PensumActions from "./Actions/ActionsCard";
-import { MatSelectionProvider } from "contexts/mat-selection";
-
 
 type Props = any;
 
@@ -15,7 +13,7 @@ type Props = any;
 function PensumExtractor(props: Props) {
   const { state: { pensum } } = useContext(ActivePensumContext);
 
-  return (<MatSelectionProvider>
+  return (<>
     <PensumSelector />
 
     {pensum && <>
@@ -28,7 +26,7 @@ function PensumExtractor(props: Props) {
       <PensumDisplay pensum={pensum} />
     </>
     }
-  </MatSelectionProvider>)
+  </>)
 } 
 
 export default PensumExtractor;

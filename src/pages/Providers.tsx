@@ -13,6 +13,7 @@ const Providers = memo(function Providers(props: any) {
     UniversityProvider,
     ActivePensumProvider,
     PensumRowNodesProvider,
+    MatSelectionProvider,
     [Fragment, null, props.children],
   ])
 });

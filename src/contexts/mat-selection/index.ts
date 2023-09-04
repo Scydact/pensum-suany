@@ -48,14 +48,16 @@ export const MatSelectionTrackerNameContext = createContext(defaultContext.state
 export const MatSelectionTrackerStorageContext = createContext(defaultContext.state.storage);
 export const MatSelectionFilterContext = createContext(defaultContext.state.filter);
 
-type Props = { children: any };
+type Props = { children: any, empty?: boolean };
 
-export const MatSelectionProvider = memo(function MatSelectionProvider({ children }: Props) {
+export const MatSelectionProvider = memo(function MatSelectionProvider({ children, empty }: Props) {
   const [state, dispatch] = useReducer(matSelectionReducer, defaultContext.state);
 
   useEffect(() => {
-    // Load data from cookies
-    dispatch({ type: 'loadFromStorage' });
+    if (!empty) {
+      // Load data from cookies
+      dispatch({ type: 'loadFromStorage' });
+    }
   }, []);
 
   return nestComponents([

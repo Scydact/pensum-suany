@@ -182,7 +182,8 @@ const useGPA = () => {
 
 /** Gets mats, cr, and handles any weird edge cases (eg. no mats shown on refresh) */
 const useFormValues = () => {
-  const { course, passed } = useContext(MatSelectionTrackerContext)
+  const tracker = useContext(MatSelectionTrackerContext);
+  const { course, passed } = tracker;
   const { state: activePensumState } = useContext(ActivePensumContext)
   const { matData: { codeMap } } = activePensumState;
 

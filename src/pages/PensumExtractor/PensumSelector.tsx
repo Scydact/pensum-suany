@@ -60,7 +60,6 @@ function PensumSelector() {
   const [pensumOnInput, setPensumOnInput] = useState(null as SelectProps);
   const previousPensum = usePreviousValue(activePensum);
   const navigate = useNavigate();
-  console.log({NODE_ENV: process.env.NODE_ENV})
   const [isDebug, setDebug] = useState(process.env.NODE_ENV === 'development');
   (function(){
     const w = window as any;

@@ -29,7 +29,7 @@ export default function PensumProgress() {
           className="course"
           style={{ backgroundColor: 'var(--mat-bg)' }} />
       </ProgressBar>
-      <Card.Title>Progreso en la carrera</Card.Title>
+      <Card.Title>Progreso en el programa</Card.Title>
     </Card.Header>
 
     <Card.Body>
