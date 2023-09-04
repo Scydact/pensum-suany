@@ -1,0 +1,21 @@
+{
+    "university": "UASD",
+    "api": "https://uasd.edu.do/",
+    "careers": [
+        {
+            "code": "24701",
+            "name": "Licenciatura en Bibliotecología y Ciencias de la Información",
+            "school": "Decanato de Educación"
+        },
+        {
+            "code": "24702",
+            "name": "Licenciatura en Educación mención Informática Educativa",
+            "school": "Decanato de Educación"
+        },
+        {
+            "code": "30956",
+            "name": "Licenciatura en Educación mención Bibliotecología",
+            "school": "Decanato de Educación"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/pensum-suany/static/css/main.9764d450.css",
+    "main.js": "/pensum-suany/static/js/main.2e9880d1.js",
+    "static/js/437.89f591bb.chunk.js": "/pensum-suany/static/js/437.89f591bb.chunk.js",
+    "static/js/538.5d73b954.chunk.js": "/pensum-suany/static/js/538.5d73b954.chunk.js",
+    "static/js/559.536a327b.chunk.js": "/pensum-suany/static/js/559.536a327b.chunk.js",
+    "sw.js": "/pensum-suany/sw.js",
+    "index.html": "/pensum-suany/index.html",
+    "main.9764d450.css.map": "/pensum-suany/static/css/main.9764d450.css.map",
+    "main.2e9880d1.js.map": "/pensum-suany/static/js/main.2e9880d1.js.map",
+    "437.89f591bb.chunk.js.map": "/pensum-suany/static/js/437.89f591bb.chunk.js.map",
+    "538.5d73b954.chunk.js.map": "/pensum-suany/static/js/538.5d73b954.chunk.js.map",
+    "559.536a327b.chunk.js.map": "/pensum-suany/static/js/559.536a327b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9764d450.css",
+    "static/js/main.2e9880d1.js"
+  ]
+}
