@@ -9,8 +9,8 @@ pnpm-lock.yaml
 # testing
 /coverage
 
-# production
-/build
+# production, needed for github build
+# /build 
 
 # misc
 .DS_Store

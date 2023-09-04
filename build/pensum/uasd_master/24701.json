@@ -1,0 +1,424 @@
+{
+  "version": 5,
+  "career": "Licenciatura en Bibliotecología y Ciencias de la Información",
+  "code": "24701",
+  "fetchDate": "2023-09-04",
+  "publishDate": "2023-09-04",
+  "src": {
+    "type": "convert",
+    "date": "2023-09-04",
+    "url": null
+  },
+  "info": [
+    "Master"
+  ],
+  "institution": "uasd_master",
+  "loose": [],
+  "periodType": {
+    "acronym": "Sem",
+    "name": "Semestre",
+    "two": "Sm"
+  },
+  "periods": [
+    [
+      {
+        "code": "BIO-0170",
+        "cr": 2,
+        "name": "Biología Básica",
+        "req": [
+          "BIO-0180"
+        ]
+      },
+      {
+        "code": "BIO-0180",
+        "cr": 1,
+        "name": "Laboratorio de Biología Básica",
+        "req": [
+          "BIO-0170"
+        ]
+      },
+      {
+        "code": "EFI-0120",
+        "cr": 2,
+        "name": "Educación Física"
+      },
+      {
+        "code": "FIL-0110",
+        "cr": 3,
+        "name": "Introducción a la Filosofía"
+      },
+      {
+        "code": "HIS-0110",
+        "cr": 3,
+        "name": "Fundamentos de Historia Social Dominicana"
+      },
+      {
+        "code": "LET-0110",
+        "cr": 3,
+        "name": "Lengua Española Básica I"
+      },
+      {
+        "code": "MAT-0140",
+        "cr": 4,
+        "name": "Matemática Básica"
+      },
+      {
+        "code": "OSI-0310",
+        "cr": 2,
+        "name": "Orientación Institucional y Académica"
+      },
+      {
+        "code": "QUI-0140",
+        "cr": 3,
+        "name": "Química Básica"
+      }
+    ],
+    [
+      {
+        "code": "BIT-1110",
+        "cr": 3,
+        "name": "El libro, las bibliotecas y cultura"
+      },
+      {
+        "code": "BIT-1120",
+        "cr": 3,
+        "name": "Fundamentos Bibliotec y Ciencias Inf"
+      },
+      {
+        "code": "BIT-1130",
+        "cr": 3,
+        "name": "Inf Aplica Unidades Información"
+      },
+      {
+        "code": "BIT-2110",
+        "cr": 2,
+        "name": "Técnica de Investigación Documental Uso Inf"
+      },
+      {
+        "code": "FIS-0180",
+        "cr": 3,
+        "name": "Física Básica",
+        "req": [
+          "FIS-0200"
+        ]
+      },
+      {
+        "code": "FIS-0200",
+        "cr": 1,
+        "name": "Laboratorio de Física Básica",
+        "req": [
+          "FIS-0180"
+        ]
+      },
+      {
+        "code": "INF-1100",
+        "cr": 4,
+        "name": "Fundamentos de Informática"
+      },
+      {
+        "code": "LET-0120",
+        "cr": 3,
+        "name": "Lengua Española Básica II",
+        "req": [
+          "LET-0110"
+        ]
+      },
+      {
+        "code": "SOC-0100",
+        "cr": 3,
+        "name": "Introducción a las Ciencias Sociales"
+      }
+    ],
+    [
+      {
+        "code": "BIT-1140",
+        "cr": 3,
+        "name": "Achivología"
+      },
+      {
+        "code": "BIT-2130",
+        "cr": 5,
+        "name": "Organiación y Representación de Información I"
+      },
+      {
+        "code": "BIT-2140",
+        "cr": 4,
+        "name": "Fuentes y Servicios de Información"
+      },
+      {
+        "code": "EST-1100",
+        "cr": 3,
+        "name": "Fundamento de Estadística",
+        "req": [
+          "MAT-0140"
+        ]
+      },
+      {
+        "code": "IDI-0230",
+        "cr": 6,
+        "name": "Inglés Elemental I"
+      },
+      {
+        "code": "LET-2140",
+        "cr": 2,
+        "name": "Corrección de Textos y Práctica Ortog"
+      },
+      {
+        "code": "TEG-1110",
+        "cr": 3,
+        "name": "Fundamentos de la Educación"
+      }
+    ],
+    [
+      {
+        "code": "BIT-2150",
+        "cr": 4,
+        "name": "Desarrollo de Colecciones"
+      },
+      {
+        "code": "BIT-2160",
+        "cr": 3,
+        "name": "Referencia y Servicios de Información"
+      },
+      {
+        "code": "BIT-2180",
+        "cr": 4,
+        "name": "Organización y Representació Información II"
+      },
+      {
+        "code": "FIB-2000",
+        "cr": 4,
+        "name": "Didáctica General",
+        "req": [
+          "TEG-1110"
+        ]
+      },
+      {
+        "code": "IDI-0240",
+        "cr": 6,
+        "name": "Inglés Elemental II",
+        "req": [
+          "IDI-0230",
+          "IDI-0210"
+        ]
+      },
+      {
+        "code": "PSI-1050",
+        "cr": 3,
+        "name": "Introducción a la Psicología"
+      }
+    ],
+    [
+      {
+        "code": "BIT-2170",
+        "cr": 4,
+        "name": "Preservación y Conservación de Documentos"
+      },
+      {
+        "code": "BIT-3110",
+        "cr": 3,
+        "name": "Recuperación de la Información"
+      },
+      {
+        "code": "BIT-3120",
+        "cr": 4,
+        "name": "Formación de Usar y Alfabet Infor"
+      },
+      {
+        "code": "BIT-3150",
+        "cr": 5,
+        "name": "Lenguajes Doc e Indización Sis"
+      },
+      {
+        "code": "IDI-1250",
+        "cr": 6,
+        "name": "Inglés Intermedio I",
+        "req": [
+          "IDI-0230",
+          "IDI-0210",
+          "IDI-0240"
+        ]
+      }
+    ],
+    [
+      {
+        "code": "BIT-3130",
+        "cr": 3,
+        "name": "Diseño y Evaluación de Bases de Datos"
+      },
+      {
+        "code": "BIT-3140",
+        "cr": 3,
+        "name": "Gestión de Unidades de Información"
+      },
+      {
+        "code": "BIT-3160",
+        "cr": 3,
+        "name": "Prom Lect y Desarrollo Sociocomunitario"
+      },
+      {
+        "code": "BIT-ZZZ0",
+        "cr": 0,
+        "name": "Asignaturas Optativas"
+      },
+      {
+        "code": "IDI-1260",
+        "cr": 6,
+        "name": "Inglés Intermedio II",
+        "req": [
+          "IDI-0230",
+          "IDI-0210",
+          "IDI-0240",
+          "IDI-1250",
+          "IDI-1210"
+        ]
+      },
+      {
+        "code": "IDI-0130",
+        "cr": 4,
+        "name": "Inglés Técnico",
+        "req": [
+          "IDI-0230",
+          "IDI-0210",
+          "IDI-0280"
+        ]
+      },
+      {
+        "code": "LET-3380",
+        "cr": 2,
+        "name": "La Narrativa Contemporánea"
+      },
+      {
+        "code": "OSI-3250",
+        "cr": 2,
+        "name": "Educación para la Atención Diversid"
+      },
+      {
+        "code": "PSI-2040",
+        "cr": 4,
+        "name": "Psicología del Aprendizaje"
+      }
+    ],
+    [
+      {
+        "code": "BIT-1170",
+        "cr": 3,
+        "name": "Investigación Bibliográfica"
+      },
+      {
+        "code": "BIT-3170",
+        "cr": 3,
+        "name": "Control Bibliog y Bibliog Nacion"
+      },
+      {
+        "code": "BIT-3180",
+        "cr": 3,
+        "name": "Diseño de Productos y Servicios Digital"
+      },
+      {
+        "code": "BIT-ZZZ0",
+        "cr": 0,
+        "name": "Asignaturas Optativas"
+      },
+      {
+        "code": "CIR-2170",
+        "cr": 4,
+        "name": "Historia del Arte"
+      },
+      {
+        "code": "IDI-2230",
+        "cr": 5,
+        "name": "Inglés Intermedio III"
+      },
+      {
+        "code": "PSI-2350",
+        "cr": 3,
+        "name": "Psicología Social I"
+      },
+      {
+        "code": "TEG-3180",
+        "cr": 3,
+        "name": "Higiene Escolar y Edu Salud",
+        "req": [
+          "TEG-1110",
+          "PED-1110"
+        ]
+      }
+    ],
+    [
+      {
+        "code": "BIT-1180",
+        "cr": 2,
+        "name": "Información y Sociedad"
+      },
+      {
+        "code": "BIT-3190",
+        "cr": 3,
+        "name": "Cátedra Luis Floren Lozano"
+      },
+      {
+        "code": "BIT-4110",
+        "cr": 3,
+        "name": "Estudios Métricos"
+      },
+      {
+        "code": "BIT-4130",
+        "cr": 3,
+        "name": "Creación y Diseo Biblio Digital Virutal"
+      },
+      {
+        "code": "BIT-4180",
+        "cr": 3,
+        "name": "Automatización Unidad de Información"
+      },
+      {
+        "code": "BIT-6110",
+        "cr": 5,
+        "name": "Práctica Profesional Supervisada"
+      },
+      {
+        "code": "BIT-ZZY0",
+        "cr": 3,
+        "name": "Asignaturas Optativas"
+      },
+      {
+        "code": "TEG-2190",
+        "cr": 3,
+        "name": "Ética Profesional del Docente"
+      },
+      {
+        "code": "LET-3490",
+        "cr": 3,
+        "name": "Literatura Infantil",
+        "req": [
+          "LET-0120",
+          "LET-0160",
+          "LET-0130"
+        ]
+      },
+      {
+        "code": "TEG-3640",
+        "cr": 3,
+        "name": "Fundamento y Estructura de Currículum",
+        "req": [
+          "TEG-1110"
+        ]
+      },
+      {
+        "code": "TEG-4110",
+        "cr": 3,
+        "name": "Pedagogía Social",
+        "req": [
+          "TEG-3140"
+        ]
+      }
+    ],
+    [
+      {
+        "code": "BIT-6170",
+        "cr": 8,
+        "name": "Tesis de grado o curso equivalente"
+      }
+    ]
+  ]
+}

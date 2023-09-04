@@ -1,0 +1,419 @@
+{
+  "version": 5,
+  "career": "Licenciatura en Educación mención Informática Educativa",
+  "code": "24702",
+  "fetchDate": "2023-09-04",
+  "publishDate": "2023-09-04",
+  "src": {
+    "type": "convert",
+    "date": "2023-09-04",
+    "url": null
+  },
+  "info": [
+    "Master"
+  ],
+  "institution": "uasd_master",
+  "loose": [],
+  "periodType": {
+    "acronym": "Sem",
+    "name": "Semestre",
+    "two": "Sm"
+  },
+  "periods": [
+    [
+      {
+        "code": "BIO-0170",
+        "cr": 2,
+        "name": "Biología Básica",
+        "req": [
+          "BIO-0180"
+        ]
+      },
+      {
+        "code": "BIO-0180",
+        "cr": 1,
+        "name": "Laboratorio de Biología Básica",
+        "req": [
+          "BIO-0170"
+        ]
+      },
+      {
+        "code": "EFI-0120",
+        "cr": 2,
+        "name": "Educación Física"
+      },
+      {
+        "code": "FIL-0110",
+        "cr": 3,
+        "name": "Introducción a la Filosofía"
+      },
+      {
+        "code": "FIS-0180",
+        "cr": 3,
+        "name": "Física Básica",
+        "req": [
+          "FIS-0200"
+        ]
+      },
+      {
+        "code": "FIS-0200",
+        "cr": 1,
+        "name": "Laboratorio de Física Básica",
+        "req": [
+          "FIS-0180"
+        ]
+      },
+      {
+        "code": "HIS-0110",
+        "cr": 3,
+        "name": "Fundamentos de Historia Social Dominicana"
+      },
+      {
+        "code": "LET-0110",
+        "cr": 3,
+        "name": "Lengua Española Básica I"
+      },
+      {
+        "code": "MAT-0140",
+        "cr": 4,
+        "name": "Matemática Básica"
+      },
+      {
+        "code": "OSI-0310",
+        "cr": 2,
+        "name": "Orientación Institucional y Académica"
+      }
+    ],
+    [
+      {
+        "code": "BIT-0230",
+        "cr": 3,
+        "name": "Fundamento de Informática Educativa"
+      },
+      {
+        "code": "EST-1100",
+        "cr": 3,
+        "name": "Fundamento de Estadística",
+        "req": [
+          "MAT-0140"
+        ]
+      },
+      {
+        "code": "INF-1100",
+        "cr": 4,
+        "name": "Fundamentos de Informática"
+      },
+      {
+        "code": "LET-0120",
+        "cr": 3,
+        "name": "Lengua Española Básica II",
+        "req": [
+          "LET-0110"
+        ]
+      },
+      {
+        "code": "PSI-1050",
+        "cr": 3,
+        "name": "Introducción a la Psicología"
+      },
+      {
+        "code": "QUI-0140",
+        "cr": 3,
+        "name": "Química Básica"
+      },
+      {
+        "code": "SOC-0100",
+        "cr": 3,
+        "name": "Introducción a las Ciencias Sociales"
+      },
+      {
+        "code": "TEG-1110",
+        "cr": 3,
+        "name": "Fundamentos de la Educación"
+      }
+    ],
+    [
+      {
+        "code": "BIT-1230",
+        "cr": 3,
+        "name": "Fundamento de la Tecnología Educativa"
+      },
+      {
+        "code": "FIB-2000",
+        "cr": 4,
+        "name": "Didáctica General",
+        "req": [
+          "TEG-1110"
+        ]
+      },
+      {
+        "code": "IDI-0210",
+        "cr": 5,
+        "name": "Inglés Elemental I"
+      },
+      {
+        "code": "OSI-3230",
+        "cr": 3,
+        "name": "Teoría Psicopedagógica y Aplicaciones"
+      },
+      {
+        "code": "PSI-2250",
+        "cr": 3,
+        "name": "Psicología Educativa",
+        "req": [
+          "PSI-1050"
+        ]
+      },
+      {
+        "code": "TEG-2150",
+        "cr": 3,
+        "name": "Filosofía e Historia de la Educación Universitaria",
+        "req": [
+          "TEG-1110"
+        ]
+      },
+      {
+        "code": "TEG-3640",
+        "cr": 3,
+        "name": "Fundamento y Estructura de Currículum",
+        "req": [
+          "TEG-1110"
+        ]
+      }
+    ],
+    [
+      {
+        "code": "BIT-2250",
+        "cr": 3,
+        "name": "Recursos Didácticos y Tecnológicos",
+        "req": [
+          "FIB-2000",
+          "INF-1100"
+        ]
+      },
+      {
+        "code": "FIB-5290",
+        "cr": 3,
+        "name": "Evaluación Educativa",
+        "req": [
+          "FIB-2000",
+          "EST-1100"
+        ]
+      },
+      {
+        "code": "INF-2080",
+        "cr": 4,
+        "name": "Organización y Arquitectura del Computador"
+      },
+      {
+        "code": "INF-5100",
+        "cr": 4,
+        "name": "Introducción a la Programación",
+        "req": [
+          "INF-5111"
+        ]
+      },
+      {
+        "code": "INF-5111",
+        "cr": 1,
+        "name": "Laboratorio de Introducción a la Programación",
+        "req": [
+          "INF-5100"
+        ]
+      },
+      {
+        "code": "OSI-1320",
+        "cr": 2,
+        "name": "Estrategia de Desarrollo del Pensamiento"
+      }
+    ],
+    [
+      {
+        "code": "BIT-2270",
+        "cr": 3,
+        "name": "Recurso Tecnológico de Comunicación Educativa"
+      },
+      {
+        "code": "BIT-3250",
+        "cr": 3,
+        "name": "Diseño Instruccional y Tecnológico I"
+      },
+      {
+        "code": "BIT-3260",
+        "cr": 3,
+        "name": "Herramientas Educativa Colaborativas Internet I"
+      },
+      {
+        "code": "INF-3240",
+        "cr": 4,
+        "name": "Sistemas Operativos"
+      },
+      {
+        "code": "INF-5120",
+        "cr": 4,
+        "name": "Lenguaje de Programación I",
+        "req": [
+          "INF-5100",
+          "INF-5111",
+          "INF-5130"
+        ]
+      },
+      {
+        "code": "INF-5130",
+        "cr": 1,
+        "name": "Laboratorio de Lenguaje de Programación",
+        "req": [
+          "INF-5120",
+          "INF-5100",
+          "INF-5111"
+        ]
+      },
+      {
+        "code": "TEG-3610",
+        "cr": 3,
+        "name": "Metodología Educativa"
+      }
+    ],
+    [
+      {
+        "code": "BIT-2120",
+        "cr": 3,
+        "name": "Didáctica Práctica Docente en Información Educativa I"
+      },
+      {
+        "code": "BIT-2280",
+        "cr": 2,
+        "name": "Innovaciones Técnológica en Gestión Escolar"
+      },
+      {
+        "code": "BIT-2290",
+        "cr": 3,
+        "name": "Diseño y Gestión de Proyectos de Innovación Educativa"
+      },
+      {
+        "code": "BIT-3230",
+        "cr": 3,
+        "name": "Desarrollo de Recursos Educativos Digitales"
+      },
+      {
+        "code": "BIT-3270",
+        "cr": 3,
+        "name": "Diseño Instruccional y Tecnológico II"
+      },
+      {
+        "code": "INF-3220",
+        "cr": 5,
+        "name": "Algoritmos Computacionales"
+      },
+      {
+        "code": "TEG-4310",
+        "cr": 3,
+        "name": "Administración y Legislación Escolar",
+        "req": [
+          "TEG-3140"
+        ]
+      }
+    ],
+    [
+      {
+        "code": "BIT-2190",
+        "cr": 3,
+        "name": "Didáctica Práctica Docen en Inf Educ II"
+      },
+      {
+        "code": "BIT-3200",
+        "cr": 4,
+        "name": "Innovación Tecnológica Educativa"
+      },
+      {
+        "code": "BIT-3240",
+        "cr": 3,
+        "name": "Plan Ped Recursos Didácticos Digitales"
+      },
+      {
+        "code": "BIT-4210",
+        "cr": 4,
+        "name": "Técnicas de Aprendizanje en Ambientes Virtuales"
+      },
+      {
+        "code": "BIT-ZZZ0",
+        "cr": 0,
+        "name": "Asignaturas Optativas"
+      },
+      {
+        "code": "TEG-4270",
+        "cr": 3,
+        "name": "Técnica de Elaboración de Proyecto de Investigación Educativa"
+      },
+      {
+        "code": "INF-3290",
+        "cr": 5,
+        "name": "Análisis y Diseño de Sistema",
+        "req": [
+          "INF-3240"
+        ]
+      },
+      {
+        "code": "INF-5140",
+        "cr": 4,
+        "name": "Lenguaje de Programación III",
+        "req": [
+          "INF-5150",
+          "INF-5120"
+        ]
+      },
+      {
+        "code": "INF-5150",
+        "cr": 1,
+        "name": "Laboratorio de Lenguaje de Programación II",
+        "req": [
+          "INF-5140",
+          "INF-5120",
+          "INF-5130"
+        ]
+      }
+    ],
+    [
+      {
+        "code": "BIT-3210",
+        "cr": 3,
+        "name": "Técnica Diseño Curricular"
+      },
+      {
+        "code": "BIT-6160",
+        "cr": 5,
+        "name": "Práctica Profesional Supervisada"
+      },
+      {
+        "code": "BIT-ZZY0",
+        "cr": 3,
+        "name": "Asignaturas Optativas"
+      },
+      {
+        "code": "TEG-2180",
+        "cr": 3,
+        "name": "Filosofía e Historia de la Educación Dominicana"
+      },
+      {
+        "code": "TEG-2190",
+        "cr": 3,
+        "name": "Ética Profesional del Docente"
+      },
+      {
+        "code": "TEG-4110",
+        "cr": 3,
+        "name": "Pedagogía Social",
+        "req": [
+          "TEG-3140"
+        ]
+      }
+    ],
+    [
+      {
+        "code": "BIT-6190",
+        "cr": 8,
+        "name": "Tesis de Grado o Curso Equivalente"
+      }
+    ]
+  ]
+}
