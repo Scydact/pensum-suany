@@ -1,6 +1,12 @@
 {
     "universities": [
         {
+            "code": "uasd_master",
+            "shortName": "UASD",
+            "longName": "Universidad Autónoma de Santo Domingo",
+            "imgUrl": null
+        },
+        {
             "code": "unapec",
             "shortName": "UNAPEC",
             "longName": "Universidad APEC",

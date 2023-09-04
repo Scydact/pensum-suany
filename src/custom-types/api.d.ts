@@ -68,7 +68,7 @@ namespace Pensum {
 
   /** Pensum singular de una carrera. */
   type Pensum = {
-    /** Version del pensum. Debe ser 2. */
+    /** Version del pensum. */
     version: number,
     /** Universidad/escuela a la que pertenece este pensum. */
     institution: string,

@@ -1,0 +1,323 @@
+"BIO-0170","24702","1","Regular","BIO-0110","Biología Básica","2","0","2","Licenciatura en Educación mención Informática Educativa","BIO-0180","Primer semestre"
+"","","","","BIO-0140",,,,,,,
+"BIO-0180","24702","1","Regular","BIO-0110-L","Laboratorio de Biología Básica","1","2","0","Licenciatura en Educación mención Informática Educativa","BIO-0170","Primer semestre"
+"","","","","BIO-0140-L",,,,,,,
+"EFI-0120","24702","1","Regular","ART-0410","Educación Física","2","2","1","Licenciatura en Educación mención Informática Educativa",,"Primer semestre"
+"","","","","ART-0420",,,,,,,
+"","","","","ART-0510",,,,,,,
+"","","","","EFI-1700",,,,,,,
+"","","","","EFS-0110",,,,,,,
+"","","","","EFS-0120",,,,,,,
+"","","","","EXT-0110",,,,,,,
+"","","","","PED-1700",,,,,,,
+"FIL-0110","24702","1","Regular",,"Introducción a la Filosofía","3","0","3","Licenciatura en Educación mención Informática Educativa",,"Primer semestre"
+"FIS-0180","24702","1","Regular","FIS-0140","Física Básica","3","0","3","Licenciatura en Educación mención Informática Educativa","FIS-0200","Primer semestre"
+"FIS-0200","24702","1","Regular","FIS-0140-L","Laboratorio de Física Básica","1","3","0","Licenciatura en Educación mención Informática Educativa","FIS-0180","Primer semestre"
+"HIS-0110","24702","1","Regular","HIS-1100","Fundamentos de Historia Social Dominicana","3","0","3","Licenciatura en Educación mención Informática Educativa",,"Primer semestre"
+"LET-0110","24702","1","Regular","LET-0130","Lengua Española Básica I","3","1","3","Licenciatura en Educación mención Informática Educativa",,"Primer semestre"
+"","","","","LET-0150",,,,,,,
+"MAT-0140","24702","1","Regular","MAT-0120","Matemática Básica","4","0","4","Licenciatura en Educación mención Informática Educativa",,"Primer semestre"
+"","","","","MAT-0130",,,,,,,
+"","","","","MAT-0840",,,,,,,
+"OSI-0310","24702","1","Regular","DOP-0100","Orientación Institucional y Académica","2","0","2","Licenciatura en Educación mención Informática Educativa",,"Primer semestre"
+"","","","","DOP-1000",,,,,,,
+"","","","","OSI-1000",,,,,,,
+"BIT-0230","24702","2","Regular",,"Fundamento de Informática Educativa","3","2","2","Licenciatura en Educación mención Informática Educativa",,"Segundo semestre"
+"EST-1100","24702","2","Regular","EST-1110","Fundamento de Estadística","3","2","2","Licenciatura en Educación mención Informática Educativa","MAT-0140","Segundo semestre"
+"","","","","EST-1120",,,,,,,
+"","","","","EST-1140",,,,,,,
+"","","","","EST-1210",,,,,,,
+"","","","","EST-1220",,,,,,,
+"","","","","EST-1310",,,,,,,
+"","","","","EST-1320",,,,,,,
+"","","","","EST-2100",,,,,,,
+"","","","","EST-2210",,,,,,,
+"","","","","EST-2250",,,,,,,
+"INF-1100","24702","2","Regular",,"Fundamentos de Informática","4","2","3","Licenciatura en Educación mención Informática Educativa",,"Segundo semestre"
+"LET-0120","24702","2","Regular","LET-0130","Lengua Española Básica II","3","1","3","Licenciatura en Educación mención Informática Educativa","LET-0110","Segundo semestre"
+"","","","","LET-0160",,,,,,,
+"PSI-1050","24702","2","Regular","PED-2500","Introducción a la Psicología","3","0","3","Licenciatura en Educación mención Informática Educativa",,"Segundo semestre"
+"","","","","PSI-1000",,,,,,,
+"","","","","PSI-1010",,,,,,,
+"QUI-0140","24702","2","Regular","QUI-0110","Química Básica","3","3","2","Licenciatura en Educación mención Informática Educativa",,"Segundo semestre"
+"","","","","QUI-0120",,,,,,,
+"","","","","QUI-1020",,,,,,,
+"SOC-0100","24702","2","Regular","ICS-0110","Introducción a las Ciencias Sociales","3","0","3","Licenciatura en Educación mención Informática Educativa",,"Segundo semestre"
+"","","","","SOC-0120",,,,,,,
+"TEG-1110","24702","2","Regular","PED-1110","Fundamentos de la Educación","3","0","3","Licenciatura en Educación mención Informática Educativa",,"Segundo semestre"
+"","","","","PED-1130",,,,,,,
+"","","","","TEG-1130",,,,,,,
+"BIT-1230","24702","3","Regular",,"Fundamento de la Tecnología Educativa","3","2","2","Licenciatura en Educación mención Informática Educativa",,"Tercer semestre"
+"FIB-2000","24702","3","Regular",,"Didáctica General","4","2","3","Licenciatura en Educación mención Informática Educativa","TEG-1110","Tercer semestre"
+"IDI-0210","24702","3","Regular",,"Inglés Elemental I","5","3","4","Licenciatura en Educación mención Informática Educativa",,"Tercer semestre"
+"OSI-3230","24702","3","Regular",,"Teoría Psicopedagógica y Aplicaciones","3","0","3","Licenciatura en Educación mención Informática Educativa",,"Tercer semestre"
+"PSI-2250","24702","3","Regular","PSI-2220","Psicología Educativa","3","0","3","Licenciatura en Educación mención Informática Educativa","PSI-1050","Tercer semestre"
+"","","","","PSI-2240",,,,,,,
+"TEG-2150","24702","3","Regular",,"Filosofía e Historia de la Educación Universitaria","3","0","3","Licenciatura en Educación mención Informática Educativa","TEG-1110","Tercer semestre"
+"TEG-3640","24702","3","Regular",,"Fundamento y Estructura de Currículum","3","2","2","Licenciatura en Educación mención Informática Educativa","TEG-1110","Tercer semestre"
+"BIT-2250","24702","4","Regular",,"Recursos Didácticos y Tecnológicos","3","2","2","Licenciatura en Educación mención Informática Educativa","FIB-2000","Cuarto semestre"
+"","","","",,,,,,,"INF-1100",
+"FIB-5290","24702","4","Regular",,"Evaluación Educativa","3","2","2","Licenciatura en Educación mención Informática Educativa","FIB-2000","Cuarto semestre"
+"","","","",,,,,,,"EST-1100",
+"INF-2080","24702","4","Regular",,"Organización y Arquitectura del Computador","4","0","4","Licenciatura en Educación mención Informática Educativa",,"Cuarto semestre"
+"INF-5100","24702","4","Regular","INF-4110","Introducción a la Programación","4","0","4","Licenciatura en Educación mención Informática Educativa","INF-5111","Cuarto semestre"
+"INF-5111","24702","4","Regular","INF-4111","Laboratorio de Introducción a la Programación","1","2","0","Licenciatura en Educación mención Informática Educativa","INF-5100","Cuarto semestre"
+"OSI-1320","24702","4","Regular",,"Estrategia de Desarrollo del Pensamiento","2","0","2","Licenciatura en Educación mención Informática Educativa",,"Cuarto semestre"
+"BIT-2270","24702","5","Regular",,"Recurso Tecnológico de Comunicación Educativa","3","2","2","Licenciatura en Educación mención Informática Educativa",,"Quinto semestre"
+"BIT-3250","24702","5","Regular",,"Diseño Instruccional y Tecnológico I","3","2","2","Licenciatura en Educación mención Informática Educativa",,"Quinto semestre"
+"BIT-3260","24702","5","Regular",,"Herramientas Educativa Colaborativas Internet I","3","2","2","Licenciatura en Educación mención Informática Educativa",,"Quinto semestre"
+"INF-3240","24702","5","Regular",,"Sistemas Operativos","4","2","3","Licenciatura en Educación mención Informática Educativa",,"Quinto semestre"
+"INF-5120","24702","5","Regular",,"Lenguaje de Programación I","4","0","4","Licenciatura en Educación mención Informática Educativa","INF-5100","Quinto semestre"
+"","","","",,,,,,,"INF-5111",
+"","","","",,,,,,,"INF-5130",
+"INF-5130","24702","5","Regular",,"Laboratorio de Lenguaje de Programación","1","2","0","Licenciatura en Educación mención Informática Educativa","INF-5120","Quinto semestre"
+"","","","",,,,,,,"INF-5100",
+"","","","",,,,,,,"INF-5111",
+"TEG-3610","24702","5","Regular","PED-1600","Metodología Educativa","3","2","2","Licenciatura en Educación mención Informática Educativa",,"Quinto semestre"
+"","","","","PED-3610",,,,,,,
+"","","","","PED-4610",,,,,,,
+"","","","","PED-1600",,,,,,,
+"","","","","PED-4610",,,,,,,
+"BIT-2120","24702","6","Regular",,"Didáctica Práctica Docente en Información Educativa I","3","2","2","Licenciatura en Educación mención Informática Educativa",,"Sexto semestre"
+"BIT-2280","24702","6","Regular",,"Innovaciones Técnológica en Gestión Escolar","2","3","2","Licenciatura en Educación mención Informática Educativa",,"Sexto semestre"
+"BIT-2290","24702","6","Regular",,"Diseño y Gestión de Proyectos de Innovación Educativa","3","2","2","Licenciatura en Educación mención Informática Educativa",,"Sexto semestre"
+"BIT-3230","24702","6","Regular",,"Desarrollo de Recursos Educativos Digitales","3","2","2","Licenciatura en Educación mención Informática Educativa",,"Sexto semestre"
+"BIT-3270","24702","6","Regular",,"Diseño Instruccional y Tecnológico II","3","3","2","Licenciatura en Educación mención Informática Educativa",,"Sexto semestre"
+"INF-3220","24702","6","Regular",,"Algoritmos Computacionales","5","2","4","Licenciatura en Educación mención Informática Educativa",,"Sexto semestre"
+"TEG-4310","24702","6","Regular","PED-2310","Administración y Legislación Escolar","3","0","3","Licenciatura en Educación mención Informática Educativa","TEG-3140","Sexto semestre"
+"","","","","PED-3330",,,,,,,
+"","","","","PED-4310",,,,,,,
+"","","","","PED-2310",,,,,,,
+"","","","","PED-3330",,,,,,,
+"BIT-2190","24702","7","Regular",,"Didáctica Práctica Docen en Inf Educ II","3","2","2","Licenciatura en Educación mención Informática Educativa",,"Séptimo semestre"
+"BIT-3200","24702","7","Regular",,"Innovación Tecnológica Educativa","4","3","3","Licenciatura en Educación mención Informática Educativa",,"Séptimo semestre"
+"BIT-3240","24702","7","Regular",,"Plan Ped Recursos Didácticos Digitales","3","2","2","Licenciatura en Educación mención Informática Educativa",,"Séptimo semestre"
+"BIT-4210","24702","7","Regular",,"Técnicas de Aprendizanje en Ambientes Virtuales","4","2","3","Licenciatura en Educación mención Informática Educativa",,"Séptimo semestre"
+"BIT-ZZZ0","24702","7","Regular",,"Asignaturas Optativas","0","0","0","Licenciatura en Educación mención Informática Educativa",,"Séptimo semestre"
+"TEG-4270","24702","7","Regular",,"Técnica de Elaboración de Proyecto de Investigación Educativa","3","2","2","Licenciatura en Educación mención Informática Educativa",,"Séptimo semestre"
+"BIT-3210","24702","8","Regular",,"Técnica Diseño Curricular","3","2","2","Licenciatura en Educación mención Informática Educativa",,"Octavo semestre"
+"BIT-6160","24702","8","Regular",,"Práctica Profesional Supervisada","5","10","0","Licenciatura en Educación mención Informática Educativa",,"Octavo semestre"
+"BIT-ZZY0","24702","8","Regular",,"Asignaturas Optativas","3","0","0","Licenciatura en Educación mención Informática Educativa",,"Octavo semestre"
+"TEG-2180","24702","8","Regular",,"Filosofía e Historia de la Educación Dominicana","3","0","3","Licenciatura en Educación mención Informática Educativa",,"Octavo semestre"
+"TEG-2190","24702","8","Regular",,"Ética Profesional del Docente","3","0","3","Licenciatura en Educación mención Informática Educativa",,"Octavo semestre"
+"BIT-6190","24702","0","Regular",,"Tesis de Grado o Curso Equivalente","8","0","0","Licenciatura en Educación mención Informática Educativa",,"Tesis de grado"
+"INF-3290","24702","7","Optativa","INF-3230","Análisis y Diseño de Sistema","5","2","3","Licenciatura en Educación mención Informática Educativa","INF-3240","Séptimo semestre"
+"INF-5140","24702","7","Optativa",,"Lenguaje de Programación III","4","0","4","Licenciatura en Educación mención Informática Educativa","INF-5150","Séptimo semestre"
+"","","","",,,,,,,"INF-5120",
+"INF-5150","24702","7","Optativa",,"Laboratorio de Lenguaje de Programación II","1","2","0","Licenciatura en Educación mención Informática Educativa","INF-5140","Séptimo semestre"
+"","","","",,,,,,,"INF-5120",
+"","","","",,,,,,,"INF-5130",
+"TEG-4110","24702","8","Optativa","PED-4110","Pedagogía Social","3","0","3","Licenciatura en Educación mención Informática Educativa","TEG-3140","Octavo semestre"
+"BIO-0170","24701","1","Regular","BIO-0110","Biología Básica","2","0","2","Licenciatura en Bibliotecología y Ciencias de la Información","BIO-0180","Primer semestre"
+"","","","","BIO-0140",,,,,,,
+"BIO-0180","24701","1","Regular","BIO-0110-L","Laboratorio de Biología Básica","1","2","0","Licenciatura en Bibliotecología y Ciencias de la Información","BIO-0170","Primer semestre"
+"","","","","BIO-0140-L",,,,,,,
+"EFI-0120","24701","1","Regular","ART-0410","Educación Física","2","2","1","Licenciatura en Bibliotecología y Ciencias de la Información",,"Primer semestre"
+"","","","","ART-0420",,,,,,,
+"","","","","ART-0510",,,,,,,
+"","","","","EFI-1700",,,,,,,
+"","","","","EFS-0110",,,,,,,
+"","","","","EFS-0120",,,,,,,
+"","","","","EXT-0110",,,,,,,
+"","","","","PED-1700",,,,,,,
+"FIL-0110","24701","1","Regular",,"Introducción a la Filosofía","3","0","3","Licenciatura en Bibliotecología y Ciencias de la Información",,"Primer semestre"
+"HIS-0110","24701","1","Regular","HIS-1100","Fundamentos de Historia Social Dominicana","3","0","3","Licenciatura en Bibliotecología y Ciencias de la Información",,"Primer semestre"
+"LET-0110","24701","1","Regular","LET-0130","Lengua Española Básica I","3","1","3","Licenciatura en Bibliotecología y Ciencias de la Información",,"Primer semestre"
+"","","","","LET-0150",,,,,,,
+"MAT-0140","24701","1","Regular","MAT-0120","Matemática Básica","4","0","4","Licenciatura en Bibliotecología y Ciencias de la Información",,"Primer semestre"
+"","","","","MAT-0130",,,,,,,
+"","","","","MAT-0840",,,,,,,
+"OSI-0310","24701","1","Regular","DOP-0100","Orientación Institucional y Académica","2","0","2","Licenciatura en Bibliotecología y Ciencias de la Información",,"Primer semestre"
+"","","","","DOP-1000",,,,,,,
+"","","","","OSI-1000",,,,,,,
+"QUI-0140","24701","1","Regular","QUI-0110","Química Básica","3","3","2","Licenciatura en Bibliotecología y Ciencias de la Información",,"Primer semestre"
+"","","","","QUI-0120",,,,,,,
+"","","","","QUI-1020",,,,,,,
+"BIT-1110","24701","2","Regular",,"El libro, las bibliotecas y cultura","3","0","3","Licenciatura en Bibliotecología y Ciencias de la Información",,"Segundo semestre"
+"BIT-1120","24701","2","Regular",,"Fundamentos Bibliotec y Ciencias Inf","3","2","2","Licenciatura en Bibliotecología y Ciencias de la Información",,"Segundo semestre"
+"BIT-1130","24701","2","Regular",,"Inf Aplica Unidades Información","3","2","2","Licenciatura en Bibliotecología y Ciencias de la Información",,"Segundo semestre"
+"BIT-2110","24701","2","Regular",,"Técnica de Investigación Documental Uso Inf","2","2","1","Licenciatura en Bibliotecología y Ciencias de la Información",,"Segundo semestre"
+"FIS-0180","24701","2","Regular","FIS-0140","Física Básica","3","0","3","Licenciatura en Bibliotecología y Ciencias de la Información","FIS-0200","Segundo semestre"
+"FIS-0200","24701","2","Regular","FIS-0140-L","Laboratorio de Física Básica","1","3","0","Licenciatura en Bibliotecología y Ciencias de la Información","FIS-0180","Segundo semestre"
+"INF-1100","24701","2","Regular",,"Fundamentos de Informática","4","2","3","Licenciatura en Bibliotecología y Ciencias de la Información",,"Segundo semestre"
+"LET-0120","24701","2","Regular","LET-0130","Lengua Española Básica II","3","1","3","Licenciatura en Bibliotecología y Ciencias de la Información","LET-0110","Segundo semestre"
+"","","","","LET-0160",,,,,,,
+"SOC-0100","24701","2","Regular","ICS-0110","Introducción a las Ciencias Sociales","3","0","3","Licenciatura en Bibliotecología y Ciencias de la Información",,"Segundo semestre"
+"","","","","SOC-0120",,,,,,,
+"BIT-1140","24701","3","Regular",,"Achivología","3","2","2","Licenciatura en Bibliotecología y Ciencias de la Información",,"Tercer semestre"
+"BIT-2130","24701","3","Regular",,"Organiación y Representación de Información I","5","4","3","Licenciatura en Bibliotecología y Ciencias de la Información",,"Tercer semestre"
+"BIT-2140","24701","3","Regular",,"Fuentes y Servicios de Información","4","2","3","Licenciatura en Bibliotecología y Ciencias de la Información",,"Tercer semestre"
+"EST-1100","24701","3","Regular","EST-1110","Fundamento de Estadística","3","2","2","Licenciatura en Bibliotecología y Ciencias de la Información","MAT-0140","Tercer semestre"
+"","","","","EST-1120",,,,,,,
+"","","","","EST-1140",,,,,,,
+"","","","","EST-1210",,,,,,,
+"","","","","EST-1220",,,,,,,
+"","","","","EST-1310",,,,,,,
+"","","","","EST-1320",,,,,,,
+"","","","","EST-2100",,,,,,,
+"","","","","EST-2210",,,,,,,
+"","","","","EST-2250",,,,,,,
+"IDI-0230","24701","3","Regular",,"Inglés Elemental I","6","2","5","Licenciatura en Bibliotecología y Ciencias de la Información",,"Tercer semestre"
+"LET-2140","24701","3","Regular",,"Corrección de Textos y Práctica Ortog","2","1","2","Licenciatura en Bibliotecología y Ciencias de la Información",,"Tercer semestre"
+"TEG-1110","24701","3","Regular","PED-1110","Fundamentos de la Educación","3","0","3","Licenciatura en Bibliotecología y Ciencias de la Información",,"Tercer semestre"
+"","","","","PED-1130",,,,,,,
+"","","","","TEG-1130",,,,,,,
+"BIT-2150","24701","4","Regular",,"Desarrollo de Colecciones","4","4","2","Licenciatura en Bibliotecología y Ciencias de la Información",,"Cuarto semestre"
+"BIT-2160","24701","4","Regular",,"Referencia y Servicios de Información","3","3","2","Licenciatura en Bibliotecología y Ciencias de la Información",,"Cuarto semestre"
+"BIT-2180","24701","4","Regular",,"Organización y Representació Información II","4","4","2","Licenciatura en Bibliotecología y Ciencias de la Información",,"Cuarto semestre"
+"FIB-2000","24701","4","Regular",,"Didáctica General","4","2","3","Licenciatura en Bibliotecología y Ciencias de la Información","TEG-1110","Cuarto semestre"
+"IDI-0240","24701","4","Regular","IDI-0220","Inglés Elemental II","6","2","5","Licenciatura en Bibliotecología y Ciencias de la Información","IDI-0230","Cuarto semestre"
+"","","","",,,,,,,"IDI-0210",
+"PSI-1050","24701","4","Regular","PED-2500","Introducción a la Psicología","3","0","3","Licenciatura en Bibliotecología y Ciencias de la Información",,"Cuarto semestre"
+"","","","","PSI-1000",,,,,,,
+"","","","","PSI-1010",,,,,,,
+"BIT-2170","24701","5","Regular",,"Preservación y Conservación de Documentos","4","4","2","Licenciatura en Bibliotecología y Ciencias de la Información",,"Quinto semestre"
+"BIT-3110","24701","5","Regular",,"Recuperación de la Información","3","2","2","Licenciatura en Bibliotecología y Ciencias de la Información",,"Quinto semestre"
+"BIT-3120","24701","5","Regular",,"Formación de Usar y Alfabet Infor","4","4","2","Licenciatura en Bibliotecología y Ciencias de la Información",,"Quinto semestre"
+"BIT-3150","24701","5","Regular",,"Lenguajes Doc e Indización Sis","5","4","3","Licenciatura en Bibliotecología y Ciencias de la Información",,"Quinto semestre"
+"IDI-1250","24701","5","Regular","IDI-1210","Inglés Intermedio I","6","2","5","Licenciatura en Bibliotecología y Ciencias de la Información","IDI-0230","Quinto semestre"
+"","","","",,,,,,,"IDI-0210",
+"","","","",,,,,,,"IDI-0240",
+"BIT-3130","24701","6","Regular",,"Diseño y Evaluación de Bases de Datos","3","2","2","Licenciatura en Bibliotecología y Ciencias de la Información",,"Sexto semestre"
+"BIT-3140","24701","6","Regular",,"Gestión de Unidades de Información","3","2","2","Licenciatura en Bibliotecología y Ciencias de la Información",,"Sexto semestre"
+"BIT-3160","24701","6","Regular",,"Prom Lect y Desarrollo Sociocomunitario","3","2","2","Licenciatura en Bibliotecología y Ciencias de la Información",,"Sexto semestre"
+"BIT-ZZZ0","24701","6","Regular",,"Asignaturas Optativas","0","0","0","Licenciatura en Bibliotecología y Ciencias de la Información",,"Sexto semestre"
+"IDI-1260","24701","6","Regular","IDI-1220","Inglés Intermedio II","6","2","5","Licenciatura en Bibliotecología y Ciencias de la Información","IDI-0230","Sexto semestre"
+"","","","",,,,,,,"IDI-0210",
+"","","","",,,,,,,"IDI-0240",
+"","","","",,,,,,,"IDI-1250",
+"","","","",,,,,,,"IDI-1210",
+"BIT-1170","24701","7","Regular",,"Investigación Bibliográfica","3","2","2","Licenciatura en Bibliotecología y Ciencias de la Información",,"Séptimo semestre"
+"BIT-3170","24701","7","Regular",,"Control Bibliog y Bibliog Nacion","3","2","2","Licenciatura en Bibliotecología y Ciencias de la Información",,"Séptimo semestre"
+"BIT-3180","24701","7","Regular",,"Diseño de Productos y Servicios Digital","3","2","2","Licenciatura en Bibliotecología y Ciencias de la Información",,"Séptimo semestre"
+"BIT-ZZZ0","24701","7","Regular",,"Asignaturas Optativas","0","0","0","Licenciatura en Bibliotecología y Ciencias de la Información",,"Séptimo semestre"
+"CIR-2170","24701","7","Regular",,"Historia del Arte","4","0","4","Licenciatura en Bibliotecología y Ciencias de la Información",,"Séptimo semestre"
+"IDI-2230","24701","7","Regular",,"Inglés Intermedio III","5","2","4","Licenciatura en Bibliotecología y Ciencias de la Información",,"Séptimo semestre"
+"BIT-1180","24701","8","Regular",,"Información y Sociedad","2","0","2","Licenciatura en Bibliotecología y Ciencias de la Información",,"Octavo semestre"
+"BIT-3190","24701","8","Regular",,"Cátedra Luis Floren Lozano","3","0","3","Licenciatura en Bibliotecología y Ciencias de la Información",,"Octavo semestre"
+"BIT-4110","24701","8","Regular",,"Estudios Métricos","3","2","2","Licenciatura en Bibliotecología y Ciencias de la Información",,"Octavo semestre"
+"BIT-4130","24701","8","Regular",,"Creación y Diseo Biblio Digital Virutal","3","2","2","Licenciatura en Bibliotecología y Ciencias de la Información",,"Octavo semestre"
+"BIT-4180","24701","8","Regular",,"Automatización Unidad de Información","3","2","2","Licenciatura en Bibliotecología y Ciencias de la Información",,"Octavo semestre"
+"BIT-6110","24701","8","Regular",,"Práctica Profesional Supervisada","5","10","0","Licenciatura en Bibliotecología y Ciencias de la Información",,"Octavo semestre"
+"BIT-ZZY0","24701","8","Regular",,"Asignaturas Optativas","3","0","0","Licenciatura en Bibliotecología y Ciencias de la Información",,"Octavo semestre"
+"TEG-2190","24701","8","Regular",,"Ética Profesional del Docente","3","0","3","Licenciatura en Bibliotecología y Ciencias de la Información",,"Octavo semestre"
+"BIT-6170","24701","0","Regular",,"Tesis de grado o curso equivalente","8","0","0","Licenciatura en Bibliotecología y Ciencias de la Información",,"Tesis de grado"
+"IDI-0130","24701","6","Optativa",,"Inglés Técnico","4","0","4","Licenciatura en Bibliotecología y Ciencias de la Información","IDI-0230","Sexto semestre"
+"","","","",,,,,,,"IDI-0210",
+"","","","",,,,,,,"IDI-0280",
+"LET-3380","24701","6","Optativa",,"La Narrativa Contemporánea","2","0","2","Licenciatura en Bibliotecología y Ciencias de la Información",,"Sexto semestre"
+"OSI-3250","24701","6","Optativa",,"Educación para la Atención Diversid","2","0","2","Licenciatura en Bibliotecología y Ciencias de la Información",,"Sexto semestre"
+"PSI-2040","24701","6","Optativa",,"Psicología del Aprendizaje","4","0","4","Licenciatura en Bibliotecología y Ciencias de la Información",,"Sexto semestre"
+"PSI-2350","24701","7","Optativa",,"Psicología Social I","3","0","3","Licenciatura en Bibliotecología y Ciencias de la Información",,"Séptimo semestre"
+"TEG-3180","24701","7","Optativa","PED-3180","Higiene Escolar y Edu Salud","3","0","3","Licenciatura en Bibliotecología y Ciencias de la Información","TEG-1110","Séptimo semestre"
+"","","","",,,,,,,"PED-1110",
+"LET-3490","24701","8","Optativa","LET-2350","Literatura Infantil","3","0","3","Licenciatura en Bibliotecología y Ciencias de la Información","LET-0120","Octavo semestre"
+"","","","",,,,,,,"LET-0160",
+"","","","",,,,,,,"LET-0130",
+"TEG-3640","24701","8","Optativa",,"Fundamento y Estructura de Currículum","3","2","2","Licenciatura en Bibliotecología y Ciencias de la Información","TEG-1110","Octavo semestre"
+"TEG-4110","24701","8","Optativa","PED-4110","Pedagogía Social","3","0","3","Licenciatura en Bibliotecología y Ciencias de la Información","TEG-3140","Octavo semestre"
+"BIT-1800","30956","1","Regular","PED-1800","Introducción a la Bibliotecología","3","0","3","Licenciatura en Educación mención Bibliotecología",,"Primer semestre"
+"BIT-1810","30956","1","Regular","PED-1810","Catalogación I","4","2","3","Licenciatura en Educación mención Bibliotecología",,"Primer semestre"
+"DOP-1000","30956","1","Regular","DOP-0100","Orientación Institucional","1","0","1","Licenciatura en Educación mención Bibliotecología",,"Primer semestre"
+"","","","","OSI-0310",,,,,,,
+"","","","","OSI-1000",,,,,,,
+"","","","","PED-3110",,,,,,,
+"","","","","TEG-3110",,,,,,,
+"FIL-0110","30956","1","Regular",,"Introducción a la Filosofía","3","0","3","Licenciatura en Educación mención Bibliotecología",,"Primer semestre"
+"LET-0150","30956","1","Regular","LET-0110","Lengua Española y Técnicas de Expresión I","3","1","3","Licenciatura en Educación mención Bibliotecología",,"Primer semestre"
+"","","","","LET-0130",,,,,,,
+"","","","","LET-0170",,,,,,,
+"SOC-0120","30956","1","Regular","ICS-0110","Introducción a las Ciencias Sociales","3","0","3","Licenciatura en Educación mención Bibliotecología",,"Primer semestre"
+"","","","","PED-1120",,,,,,,
+"","","","","SOC-0100",,,,,,,
+"TEG-1110","30956","1","Regular","PED-1110","Fundamentos de la Educación","3","0","3","Licenciatura en Educación mención Bibliotecología",,"Primer semestre"
+"","","","","PED-1130",,,,,,,
+"","","","","TEG-1130",,,,,,,
+"BIT-1820","30956","2","Regular","PED-1820","Catalogación II","4","2","3","Licenciatura en Educación mención Bibliotecología","BIT-1810","Segundo semestre"
+"BIT-1830","30956","2","Regular","PED-1830","Clasificación I","4","2","3","Licenciatura en Educación mención Bibliotecología","BIT-1800","Segundo semestre"
+"HIS-0110","30956","2","Regular","HIS-1100","Fundamentos de Historia Social Dominicana","3","0","3","Licenciatura en Educación mención Bibliotecología",,"Segundo semestre"
+"LET-0160","30956","2","Regular","LET-0120","Lengua Española y Técnicas de Expresión II","3","1","3","Licenciatura en Educación mención Bibliotecología","LET-0150","Segundo semestre"
+"","","","","LET-0130",,,,,,"LET-0130",
+"","","","","LET-0180",,,,,,"LET-0110",
+"MAT-0140","30956","2","Regular","MAT-0120","Matemática Básica","4","0","4","Licenciatura en Educación mención Bibliotecología",,"Segundo semestre"
+"","","","","MAT-0130",,,,,,,
+"","","","","MAT-0840",,,,,,,
+"PSI-1050","30956","2","Regular","PED-2500","Introducción a la Psicología","3","0","3","Licenciatura en Educación mención Bibliotecología",,"Segundo semestre"
+"","","","","PSI-1000",,,,,,,
+"","","","","PSI-1010",,,,,,,
+"BIT-1840","30956","3","Regular","PED-1840","Clasificación II","4","2","3","Licenciatura en Educación mención Bibliotecología","BIT-1830","Tercer semestre"
+"BIT-1850","30956","3","Regular","PED-1850","Referencia I","3","0","3","Licenciatura en Educación mención Bibliotecología","BIT-1800","Tercer semestre"
+"BIT-1860","30956","3","Regular","PED-1860","Historia del Libro y la Biblio","3","1","3","Licenciatura en Educación mención Bibliotecología",,"Tercer semestre"
+"BIT-1870","30956","3","Regular","PED-1870","Publicaciones Periódicas","3","0","3","Licenciatura en Educación mención Bibliotecología","BIT-1810","Tercer semestre"
+"","","","",,,,,,,"BIT-1830",
+"BIT-2810","30956","3","Regular","PED-2810","Bibliografía I","3","2","2","Licenciatura en Educación mención Bibliotecología","BIT-1810","Tercer semestre"
+"BIT-3060","30956","3","Regular","PED-3060","Didáctica de la Bibliotecología","4","3","3","Licenciatura en Educación mención Bibliotecología","TEG-1110","Tercer semestre"
+"","","","","PED-6260",,,,,,,
+"","","","","TEG-6260",,,,,,,
+"EST-1110","30956","3","Regular","EST-1100","Estadística General","4","2","3","Licenciatura en Educación mención Bibliotecología","MAT-0120","Tercer semestre"
+"","","","","EST-1120",,,,,,"MAT-0140",
+"","","","","EST-1210",,,,,,"MAT-0800",
+"","","","","EST-1220",,,,,,"MAT-0110",
+"","","","","EST-1320",,,,,,"MAT-0840",
+"","","","","EST-2110",,,,,,"MAT-0130",
+"","","","","EST-2210",,,,,,"MAT-1200",
+"","","","","EST-3130",,,,,,,
+"BIT-1160","30956","4","Regular","PED-1160","Educación del Usuario","3","0","3","Licenciatura en Educación mención Bibliotecología","BIT-1800","Cuarto semestre"
+"BIT-1880","30956","4","Regular","PED-1880","Referencia II","3","2","3","Licenciatura en Educación mención Bibliotecología","BIT-1850","Cuarto semestre"
+"BIT-1890","30956","4","Regular","PED-1890","Fundamentos de Archivo I","3","2","2","Licenciatura en Educación mención Bibliotecología","BIT-3060","Cuarto semestre"
+"BIT-2800","30956","4","Regular","PED-2800","Biblioteca Escolar y Pública","3","0","3","Licenciatura en Educación mención Bibliotecología","BIT-2810","Cuarto semestre"
+"BIT-2820","30956","4","Regular","PED-2820","Bibliografía II","3","2","2","Licenciatura en Educación mención Bibliotecología","BIT-2810","Cuarto semestre"
+"IDI-0230","30956","4","Regular",,"Inglés Elemental I","6","2","5","Licenciatura en Educación mención Bibliotecología",,"Cuarto semestre"
+"INF-1030","30956","4","Regular","ADM-2290","Introducción a la Informática","4","0","4","Licenciatura en Educación mención Bibliotecología","MAT-0140","Cuarto semestre"
+"","","","","INF-1010",,,,,,"MAT-0110",
+"","","","",,,,,,,"MAT-0120",
+"","","","",,,,,,,"MAT-0130",
+"","","","",,,,,,,"MAT-0840",
+"","","","",,,,,,,"MAT-1200",
+"BIT-1900","30956","5","Regular","PED-1900","Fundamentos de Archivo II","3","2","2","Licenciatura en Educación mención Bibliotecología","BIT-1890","Quinto semestre"
+"BIT-2260","30956","5","Regular","BIT-0220","Recursos Audiovisuales en Educación","3","2","2","Licenciatura en Educación mención Bibliotecología","FIB-1220","Quinto semestre"
+"","","","","PED-0220",,,,,,,
+"","","","","PED-0260",,,,,,,
+"BIT-2620","30956","5","Regular","PED-2620","Técnicas de Investigación Bibliográfica","3","2","2","Licenciatura en Educación mención Bibliotecología","BIT-2810","Quinto semestre"
+"","","","",,,,,,,"BIT-2820",
+"BIT-2840","30956","5","Regular","PED-2840","Bibliografía Dominicana","3","0","3","Licenciatura en Educación mención Bibliotecología","BIT-2810","Quinto semestre"
+"","","","",,,,,,,"BIT-2820",
+"GEO-1240","30956","5","Regular",,"Geografía General de la Isla de Santo Domingo","2","1","2","Licenciatura en Educación mención Bibliotecología",,"Quinto semestre"
+"IDI-0240","30956","5","Regular","IDI-0220","Inglés Elemental II","6","2","5","Licenciatura en Educación mención Bibliotecología","IDI-0230","Quinto semestre"
+"","","","",,,,,,,"IDI-0210",
+"LET-1410","30956","5","Regular","LET-2400","Introducción a la Historia General de la Literatura I","3","0","3","Licenciatura en Educación mención Bibliotecología",,"Quinto semestre"
+"TEG-2130","30956","5","Regular","FIB-1150","Historia Educativa Universal y Dominicana","3","0","3","Licenciatura en Educación mención Bibliotecología","TEG-1110","Quinto semestre"
+"","","","","PED-1150",,,,,,,
+"","","","","PED-2120",,,,,,,
+"","","","","PED-2130",,,,,,,
+"","","","","PED-2120",,,,,,,
+"BIT-2630","30956","6","Regular","PED-2630","Fundamentos de Documentación","4","2","3","Licenciatura en Educación mención Bibliotecología","INF-1030","Sexto semestre"
+"","","","",,,,,,,"BIT-1880",
+"BIT-2830","30956","6","Regular","PED-2830","Biblioteca Universal y Especialización","3","3","3","Licenciatura en Educación mención Bibliotecología","BIT-2800","Sexto semestre"
+"ECN-2110","30956","6","Regular","ECN-1120","Introducción a la Economía","4","0","4","Licenciatura en Educación mención Bibliotecología",,"Sexto semestre"
+"","","","","ECN-1150",,,,,,,
+"","","","","ECN-2100",,,,,,,
+"IDI-0510","30956","6","Regular",,"Francés Elementa I","5","2","4","Licenciatura en Educación mención Bibliotecología",,"Sexto semestre"
+"TEG-3140","30956","6","Regular","PED-3140","Filosofía de la Educación","3","0","3","Licenciatura en Educación mención Bibliotecología","TEG-2130","Sexto semestre"
+"TEG-3180","30956","6","Regular","PED-3180","Higiene Escolar y Edu Salud","3","0","3","Licenciatura en Educación mención Bibliotecología","TEG-1110","Sexto semestre"
+"","","","",,,,,,,"PED-1110",
+"BIT-2320","30956","7","Regular","PED-2320","Administración de Bibliotecas","4","2","3","Licenciatura en Educación mención Bibliotecología","BIT-2830","Séptimo semestre"
+"BIT-2870","30956","7","Regular","PED-2870","Aut de los Servicios Bibliográficos","5","2","4","Licenciatura en Educación mención Bibliotecología","INF-1030","Séptimo semestre"
+"BIT-2880","30956","7","Regular","PED-2880","Pasantía en Bibliotecología","3","3","2","Licenciatura en Educación mención Bibliotecología","BIT-2620","Séptimo semestre"
+"CRI-1130","30956","7","Regular","ART-1130","Historia del Arte I","3","0","3","Licenciatura en Educación mención Bibliotecología",,"Séptimo semestre"
+"OSI-3420","30956","7","Regular","PED-3420","Relaciones Humanas en Educación","2","0","2","Licenciatura en Educación mención Bibliotecología","PSI-1010","Séptimo semestre"
+"","","","",,,,,,,"PSI-1050",
+"","","","",,,,,,,"SOC-0120",
+"","","","",,,,,,,"ICS-0110",
+"","","","",,,,,,,"SOC-0100",
+"TEG-4110","30956","7","Regular","PED-4110","Pedagogía Social","3","0","3","Licenciatura en Educación mención Bibliotecología","TEG-3140","Séptimo semestre"
+"TEG-4120","30956","7","Regular","PED-3380","Ética Profesional","2","0","2","Licenciatura en Educación mención Bibliotecología","TEG-3140","Séptimo semestre"
+"","","","","PED-4120",,,,,,,
+"","","","","TEG-3380",,,,,,,
+"BIT-2450","30956","8","Regular","PED-2450","Planeamiento Servicio de Información","2","0","2","Licenciatura en Educación mención Bibliotecología","BIT-2320","Octavo semestre"
+"BIT-2850","30956","8","Regular","PED-2850","Técnicas de Presentación y Res de Documentos","4","2","3","Licenciatura en Educación mención Bibliotecología","BIT-2630","Octavo semestre"
+"BIT-2860","30956","8","Regular","PED-2860","Bibliotecología Comparada","4","2","3","Licenciatura en Educación mención Bibliotecología","BIT-2320","Octavo semestre"
+"BIT-2890","30956","8","Regular","PED-2890","Bibliotecología Contemporánea","3","2","2","Licenciatura en Educación mención Bibliotecología","BIT-2880","Octavo semestre"
+"TEG-3620","30956","8","Regular","PED-3620","Técnicas de Elaboración de Tesis Pedag","3","2","2","Licenciatura en Educación mención Bibliotecología","FIL-1240","Octavo semestre"
+"","","","",,,,,,,"TEG-3610",
+"BIT-7800","30956","0","Regular",,"Tesis de grado o curso equivalente","8","0","0","Licenciatura en Educación mención Bibliotecología",,"Tesis de grado"

@@ -1,0 +1,444 @@
+{
+  "version": 5,
+  "career": "Licenciatura en Educación mención Bibliotecología",
+  "code": "30956",
+  "fetchDate": "2023-09-04",
+  "publishDate": "2023-09-04",
+  "src": {
+    "type": "convert",
+    "date": "2023-09-04",
+    "url": null
+  },
+  "info": [
+    "Master"
+  ],
+  "institution": "uasd_master",
+  "loose": [],
+  "periodType": {
+    "acronym": "Sem",
+    "name": "Semestre",
+    "two": "Sm"
+  },
+  "periods": [
+    [
+      {
+        "code": "BIT-1800",
+        "cr": 3,
+        "name": "Introducción a la Bibliotecología"
+      },
+      {
+        "code": "BIT-1810",
+        "cr": 4,
+        "name": "Catalogación I"
+      },
+      {
+        "code": "DOP-1000",
+        "cr": 1,
+        "name": "Orientación Institucional"
+      },
+      {
+        "code": "FIL-0110",
+        "cr": 3,
+        "name": "Introducción a la Filosofía"
+      },
+      {
+        "code": "LET-0150",
+        "cr": 3,
+        "name": "Lengua Española y Técnicas de Expresión I"
+      },
+      {
+        "code": "SOC-0120",
+        "cr": 3,
+        "name": "Introducción a las Ciencias Sociales"
+      },
+      {
+        "code": "TEG-1110",
+        "cr": 3,
+        "name": "Fundamentos de la Educación"
+      }
+    ],
+    [
+      {
+        "code": "BIT-1820",
+        "cr": 4,
+        "name": "Catalogación II",
+        "req": [
+          "BIT-1810"
+        ]
+      },
+      {
+        "code": "BIT-1830",
+        "cr": 4,
+        "name": "Clasificación I",
+        "req": [
+          "BIT-1800"
+        ]
+      },
+      {
+        "code": "HIS-0110",
+        "cr": 3,
+        "name": "Fundamentos de Historia Social Dominicana"
+      },
+      {
+        "code": "LET-0160",
+        "cr": 3,
+        "name": "Lengua Española y Técnicas de Expresión II",
+        "req": [
+          "LET-0150",
+          "LET-0130",
+          "LET-0110"
+        ]
+      },
+      {
+        "code": "MAT-0140",
+        "cr": 4,
+        "name": "Matemática Básica"
+      },
+      {
+        "code": "PSI-1050",
+        "cr": 3,
+        "name": "Introducción a la Psicología"
+      }
+    ],
+    [
+      {
+        "code": "BIT-1840",
+        "cr": 4,
+        "name": "Clasificación II",
+        "req": [
+          "BIT-1830"
+        ]
+      },
+      {
+        "code": "BIT-1850",
+        "cr": 3,
+        "name": "Referencia I",
+        "req": [
+          "BIT-1800"
+        ]
+      },
+      {
+        "code": "BIT-1860",
+        "cr": 3,
+        "name": "Historia del Libro y la Biblio"
+      },
+      {
+        "code": "BIT-1870",
+        "cr": 3,
+        "name": "Publicaciones Periódicas",
+        "req": [
+          "BIT-1810",
+          "BIT-1830"
+        ]
+      },
+      {
+        "code": "BIT-2810",
+        "cr": 3,
+        "name": "Bibliografía I",
+        "req": [
+          "BIT-1810"
+        ]
+      },
+      {
+        "code": "BIT-3060",
+        "cr": 4,
+        "name": "Didáctica de la Bibliotecología",
+        "req": [
+          "TEG-1110"
+        ]
+      },
+      {
+        "code": "EST-1110",
+        "cr": 4,
+        "name": "Estadística General",
+        "req": [
+          "MAT-0120",
+          "MAT-0140",
+          "MAT-0800",
+          "MAT-0110",
+          "MAT-0840",
+          "MAT-0130",
+          "MAT-1200"
+        ]
+      }
+    ],
+    [
+      {
+        "code": "BIT-1160",
+        "cr": 3,
+        "name": "Educación del Usuario",
+        "req": [
+          "BIT-1800"
+        ]
+      },
+      {
+        "code": "BIT-1880",
+        "cr": 3,
+        "name": "Referencia II",
+        "req": [
+          "BIT-1850"
+        ]
+      },
+      {
+        "code": "BIT-1890",
+        "cr": 3,
+        "name": "Fundamentos de Archivo I",
+        "req": [
+          "BIT-3060"
+        ]
+      },
+      {
+        "code": "BIT-2800",
+        "cr": 3,
+        "name": "Biblioteca Escolar y Pública",
+        "req": [
+          "BIT-2810"
+        ]
+      },
+      {
+        "code": "BIT-2820",
+        "cr": 3,
+        "name": "Bibliografía II",
+        "req": [
+          "BIT-2810"
+        ]
+      },
+      {
+        "code": "IDI-0230",
+        "cr": 6,
+        "name": "Inglés Elemental I"
+      },
+      {
+        "code": "INF-1030",
+        "cr": 4,
+        "name": "Introducción a la Informática",
+        "req": [
+          "MAT-0140",
+          "MAT-0110",
+          "MAT-0120",
+          "MAT-0130",
+          "MAT-0840",
+          "MAT-1200"
+        ]
+      }
+    ],
+    [
+      {
+        "code": "BIT-1900",
+        "cr": 3,
+        "name": "Fundamentos de Archivo II",
+        "req": [
+          "BIT-1890"
+        ]
+      },
+      {
+        "code": "BIT-2260",
+        "cr": 3,
+        "name": "Recursos Audiovisuales en Educación",
+        "req": [
+          "FIB-1220"
+        ]
+      },
+      {
+        "code": "BIT-2620",
+        "cr": 3,
+        "name": "Técnicas de Investigación Bibliográfica",
+        "req": [
+          "BIT-2810",
+          "BIT-2820"
+        ]
+      },
+      {
+        "code": "BIT-2840",
+        "cr": 3,
+        "name": "Bibliografía Dominicana",
+        "req": [
+          "BIT-2810",
+          "BIT-2820"
+        ]
+      },
+      {
+        "code": "GEO-1240",
+        "cr": 2,
+        "name": "Geografía General de la Isla de Santo Domingo"
+      },
+      {
+        "code": "IDI-0240",
+        "cr": 6,
+        "name": "Inglés Elemental II",
+        "req": [
+          "IDI-0230",
+          "IDI-0210"
+        ]
+      },
+      {
+        "code": "LET-1410",
+        "cr": 3,
+        "name": "Introducción a la Historia General de la Literatura I"
+      },
+      {
+        "code": "TEG-2130",
+        "cr": 3,
+        "name": "Historia Educativa Universal y Dominicana",
+        "req": [
+          "TEG-1110"
+        ]
+      }
+    ],
+    [
+      {
+        "code": "BIT-2630",
+        "cr": 4,
+        "name": "Fundamentos de Documentación",
+        "req": [
+          "INF-1030",
+          "BIT-1880"
+        ]
+      },
+      {
+        "code": "BIT-2830",
+        "cr": 3,
+        "name": "Biblioteca Universal y Especialización",
+        "req": [
+          "BIT-2800"
+        ]
+      },
+      {
+        "code": "ECN-2110",
+        "cr": 4,
+        "name": "Introducción a la Economía"
+      },
+      {
+        "code": "IDI-0510",
+        "cr": 5,
+        "name": "Francés Elementa I"
+      },
+      {
+        "code": "TEG-3140",
+        "cr": 3,
+        "name": "Filosofía de la Educación",
+        "req": [
+          "TEG-2130"
+        ]
+      },
+      {
+        "code": "TEG-3180",
+        "cr": 3,
+        "name": "Higiene Escolar y Edu Salud",
+        "req": [
+          "TEG-1110",
+          "PED-1110"
+        ]
+      }
+    ],
+    [
+      {
+        "code": "BIT-2320",
+        "cr": 4,
+        "name": "Administración de Bibliotecas",
+        "req": [
+          "BIT-2830"
+        ]
+      },
+      {
+        "code": "BIT-2870",
+        "cr": 5,
+        "name": "Aut de los Servicios Bibliográficos",
+        "req": [
+          "INF-1030"
+        ]
+      },
+      {
+        "code": "BIT-2880",
+        "cr": 3,
+        "name": "Pasantía en Bibliotecología",
+        "req": [
+          "BIT-2620"
+        ]
+      },
+      {
+        "code": "CRI-1130",
+        "cr": 3,
+        "name": "Historia del Arte I"
+      },
+      {
+        "code": "OSI-3420",
+        "cr": 2,
+        "name": "Relaciones Humanas en Educación",
+        "req": [
+          "PSI-1010",
+          "PSI-1050",
+          "SOC-0120",
+          "ICS-0110",
+          "SOC-0100"
+        ]
+      },
+      {
+        "code": "TEG-4110",
+        "cr": 3,
+        "name": "Pedagogía Social",
+        "req": [
+          "TEG-3140"
+        ]
+      },
+      {
+        "code": "TEG-4120",
+        "cr": 2,
+        "name": "Ética Profesional",
+        "req": [
+          "TEG-3140"
+        ]
+      }
+    ],
+    [
+      {
+        "code": "BIT-2450",
+        "cr": 2,
+        "name": "Planeamiento Servicio de Información",
+        "req": [
+          "BIT-2320"
+        ]
+      },
+      {
+        "code": "BIT-2850",
+        "cr": 4,
+        "name": "Técnicas de Presentación y Res de Documentos",
+        "req": [
+          "BIT-2630"
+        ]
+      },
+      {
+        "code": "BIT-2860",
+        "cr": 4,
+        "name": "Bibliotecología Comparada",
+        "req": [
+          "BIT-2320"
+        ]
+      },
+      {
+        "code": "BIT-2890",
+        "cr": 3,
+        "name": "Bibliotecología Contemporánea",
+        "req": [
+          "BIT-2880"
+        ]
+      },
+      {
+        "code": "TEG-3620",
+        "cr": 3,
+        "name": "Técnicas de Elaboración de Tesis Pedag",
+        "req": [
+          "FIL-1240",
+          "TEG-3610"
+        ]
+      }
+    ],
+    [
+      {
+        "code": "BIT-7800",
+        "cr": 8,
+        "name": "Tesis de grado o curso equivalente"
+      }
+    ]
+  ]
+}

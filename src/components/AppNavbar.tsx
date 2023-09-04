@@ -40,7 +40,7 @@ function AppNavbar({ children }: Props) {
     <Container>
       <Navbar.Brand
         onClick={() => navigate("/")}>
-        PENSUMS UNAPEC
+        PROGRAMAS UASD - Master
       </Navbar.Brand>
 
       <div className="flex-grow-1">

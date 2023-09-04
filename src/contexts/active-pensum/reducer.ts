@@ -50,19 +50,21 @@ export function createPayload(pensum: ActivePensum.Payload['pensum']): ActivePen
   }
 }
 
-
 export function activePensumReducer(
   state: ActivePensum.Payload,
   action: ActivePensum.Action): ActivePensum.Payload {
   switch (action.type) {
+    /** Clear the current pensum. Won't clear localStorage, so activepensum will rollback after a page refresh. */
     case 'clear':
       // savePensumToLocalStorage(null); // Dont clear save!
       return createPayload(null);
 
+    /** Set/updates the given pensum as the active pensum. */
     case 'set':
       savePensumToLocalStorage(action.payload);
       return createPayload(action.payload);
 
+    /** Attepmts to load from localStorage. */
     case 'load/fromSave': {
       var pensum = loadPensumFromLocalStorage();
 
@@ -93,14 +95,14 @@ export function activePensumReducer(
 
     case 'new': 
       return createPayload({
-        career: '*Nombre de carrera*',
+        career: '*Nombre de programa*',
         code: 'C0D1G0',
         fetchDate: westernDateFormat(new Date()),
         publishDate: westernDateFormat(new Date()),
-        info: ['Descripcion de la carrera', 'Creditos: 30', 'Requisitos: Aprobar deporte. Pasantia.'],
-        institution: 'unapec',
+        info: ['Descripcion del programa', 'Creditos: 30', 'Requisitos: Aprobar deporte. Pasantia.'],
+        institution: 'uasd_master',
         loose: [],
-        periodType: { acronym: 'cuat', name: 'cuatrimestre', two: 'ct' },
+        periodType: { acronym: 'sem', name: 'semester', two: 'sm' },
         periods: [],
         src: { type: "online", date: japaneseDateFormat(new Date()), url: null },
         version: 2,

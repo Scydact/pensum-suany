@@ -144,7 +144,7 @@ export const UniversityProvider = memo(function UniversityProvider({ children }:
 
   useEffect(() => {
     if (state.selected === null) {
-      select('unapec');
+      select('uasd_master');
     }
   }, [select, state.selected]);
 
