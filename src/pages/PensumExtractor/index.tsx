@@ -18,10 +18,10 @@ function PensumExtractor(props: Props) {
 
     {pensum && <>
       <div className="d-md-flex gap-3">
-        <PensumInfo info={pensum.info} className="flex-fill" />
+      {/* <PensumInfo info={pensum.info} className="flex-fill" /> */}
+        <PensumProgress />
         <PensumActions />
       </div>
-      <PensumProgress />
       <PensumFilter />
       <PensumDisplay pensum={pensum} />
     </>
