@@ -5,9 +5,9 @@
   "fetchDate": "2023-09-04",
   "publishDate": "2023-09-04",
   "src": {
-    "type": "convert",
+    "type": "online",
     "date": "2023-09-04",
-    "url": null
+    "url": "https://soft.uasd.edu.do/PensumGrado/?periodoV=999999&programa=P-EMIE&plan=201420&nivel=GR"
   },
   "info": [
     "Master"
