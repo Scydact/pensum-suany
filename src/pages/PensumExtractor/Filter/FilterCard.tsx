@@ -7,8 +7,8 @@ import FilterVisibilitySelector from "./FilterVisibilitySelector";
 
 const PensumActions = memo(() => {
   const modeEntries: React.ComponentProps<typeof FilterModeSelector>['entries'] = [
-    ['passed', 'Aprobar'],
-    ['course', 'Cursar'],
+    ['passed', 'Aprobadas'],
+    ['course', 'Cursando'],
   ];
 
   const visibleEntries: React.ComponentProps<typeof FilterVisibilitySelector>['entries'] = [
